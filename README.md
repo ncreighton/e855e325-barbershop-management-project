@@ -1,2 +1,28 @@
-# e855e325-barbershop-management-project
-Tired of sticky notes, separate apps, and missed appointments? Your barbershop runs on precision, but your management is chaos. This Notion template turns scattered tasks into a seamless workflow.  The Barbershop Management Project Management and Team Collaboration Notion Template is the first all-in-one workspace built specifically for barbershops
+# Barbershop Management Project Management and Team Collaboration Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQfZhaDd3o8cVWdI0d0k07)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQfZhaDd3o8cVWdI0d0k07)
+
